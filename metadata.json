@@ -1,0 +1,6 @@
+{
+  "name": "StrideLocal",
+  "description": "Offline-first step counter, cadence-calibrated biomechanics tracker, and adaptive goal engine with zero-internet local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
